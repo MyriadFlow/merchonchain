@@ -1,1 +1,1 @@
-# Merch On Chain 
+# On Chain Events 
